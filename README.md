@@ -1,5 +1,4 @@
 # MSI Z390i OpenCore EFI<br>
-***
 ### USB3端口已定制<br>
 ### FCPX加速已开启<br>
 ### 原生NVRAM已驱动<br>
