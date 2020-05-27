@@ -1,3 +1,5 @@
+### Clover Version: [MSI-Z390i-Hackintosh-Clover](https://github.com/GaryOAO/MSI-Z390i-hackintosh-clover)
+***
 # MSI Z390i OpenCore EFI<br>
 ### USB3端口已定制<br>
 ### FCPX加速已开启<br>
