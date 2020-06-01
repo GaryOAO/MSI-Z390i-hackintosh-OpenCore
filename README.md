@@ -1,7 +1,7 @@
 ### Clover Version: [MSI-Z390i-Hackintosh-Clover](https://github.com/GaryOAO/MSI-Z390i-hackintosh-clover)
 ***
 # MSI Z390i OpenCore EFI<br>
-### USB3端口已定制<br>
+### USB3端口已定制 (请务必将smbios机型设置为iMac 19,2否则会导致USB3.0无法使用)<br>
 ### FCPX加速已开启<br>
 ### 原生NVRAM已驱动<br>
 ### AppleALC主观完美Layout ID选择1<br>
