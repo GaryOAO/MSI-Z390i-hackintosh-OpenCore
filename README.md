@@ -10,4 +10,6 @@
 ***
 ### 如果你也跟我一样Vega56进系统风扇狂转，请使用VGTab定制Vega风扇驱动并加入kext<br>
 ***
-请用户自行生成smbios信息，若要关闭啰嗦模式请在config中搜索bootercfg并删除-v，如果你想了解更多关于opencore的详细内容请参考XJN的博客
+请用户自行生成smbios信息，若要关闭啰嗦模式请在config中搜索bootercfg并删除-v，如果你想了解更多关于opencore的详细内容请参考XJN的博客<br>
+***
+###已知问题：休眠异常，欢迎提供解决方案
